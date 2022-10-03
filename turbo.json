@@ -10,9 +10,7 @@
       "dependsOn": [
         "^build",
         "$COMMERCE_PROVIDER",
-        "$BIGCOMMERCE_STOREFRONT_API_URL",
-        "$NEXT_PUBLIC_SHOPIFY_STORE_DOMAIN",
-        "$NEXT_PUBLIC_SWELL_STORE_ID"
+        "$NEXT_PUBLIC_SHOPIFY_STORE_DOMAIN"
       ],
       "outputs": [".next/**"]
     },
